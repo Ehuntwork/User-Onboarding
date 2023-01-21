@@ -1,0 +1,24 @@
+.formInputs{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+label{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 10px;
+}
+.AOT{
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+}
+button{
+    padding: 10px 20px;
+    background-color: cadetblue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
